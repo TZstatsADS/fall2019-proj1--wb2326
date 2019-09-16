@@ -27,7 +27,7 @@ Here are the top 5 most productive musicians along with their genres.
 
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_22_1.png)
 
-To get more details about the lyrics text of the 10 most eloquent artist, I created 10 corresponding wordclouds, which tell us the most frequent words appeared in artists’ lyrics: “love”, “time”, “baby”, “well’…, are the popular words poping up frequently in lyrics.
+To get more details about the lyrics text of the 5 most eloquent artist, I created 5 corresponding wordclouds, which tell us the most frequent words appeared in artists’ lyrics: “love”, “time”, “baby”, “well’…, are the popular words poping up frequently in lyrics.
 
 dolly-parton
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_30_0.png)
