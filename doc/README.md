@@ -2,7 +2,7 @@
 
 ### Doc folder
 
-proj1_WB2326.md: it is the report of my project.
+Project 1: it is the report of my project.
 
 WeijiaBao_lyrics.ipynb: it is the code of my project.
 
