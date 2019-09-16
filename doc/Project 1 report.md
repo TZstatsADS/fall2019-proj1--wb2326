@@ -24,6 +24,7 @@ Overall, Hip-hop uses the greatest average amount of words, which makes sense as
 Here are the top 5 most productive musicians along with their genres.
 
 ![] (https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/top5.png)
+
 ![] (https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_22_1.png)
 
 To get more details about the lyrics text of the 10 most eloquent artist, I created 10 corresponding wordclouds, which tell us the most frequent words appeared in artists’ lyrics: “love”, “time”, “baby”, “well’…, are the popular words pope up frequently in lyrics.
