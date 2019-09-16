@@ -22,6 +22,7 @@ Overall, Hip-hop uses the greatest average amount of words, which makes sense as
 ### Top 5 Most Productive musicians
 
 Here are the top 5 most productive musicians along with their genres.
+
 ![] (https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/top5.png)
 ![] (https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_22_1.png)
 
