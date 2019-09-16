@@ -46,6 +46,44 @@ bob-dylan
 
 However, there is one great distinction between rapstars and other genre artists. They mentioned “girl” almost as twice as frequent.
 
+Top 10 most frequent words for each genre:
+
+Country
+![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/Country.png)
+
+Electronic
+![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/Electronic.png)
+
+Folk
+![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/Folk.png)
+
+Hip-Hop
+![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/Hip-Hop.png)
+
+Indie
+![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/Indie.png)
+
+Jazz
+![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/Jazz.png)
+
+Metal
+![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/Metal.png)
+
+Not Available
+![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/Not%20Available.png)
+
+Other
+![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/Other.png)
+
+Pop
+![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/Pop.png)
+
+R&B!
+[](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/R%26B.png)
+
+Rock
+![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/Rock.png)
+
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/words_ratio.png)
 
 ### Does productivity change along time?
