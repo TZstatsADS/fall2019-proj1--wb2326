@@ -30,3 +30,18 @@ def drawCloud(s):
     #plt.imshow(hcmask, cmap=plt.cm.gray)
     #plt.axis("off")
     #plt.show()
+
+def allTextByGenre(processed):
+    E={}
+    for ind,val in processed.iterrows():
+        gen = val["genre"]
+        if gen in E:
+            E[gen]= E[gen]+ ofString(str(val["stemmedwords"]))
+        else:
+            E[gen]= ofString(str(val["stemmedwords"]))
+    return E
+E= allTextByGenre(processed)
+from collections import Counter 
+Counter  = Counter(E['Rock'].split())
+most_occur = Counter.most_common(10)
+most_occur
