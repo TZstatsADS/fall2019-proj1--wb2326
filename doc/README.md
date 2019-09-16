@@ -2,4 +2,8 @@
 
 ### Doc folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+Project 1 report: it is the report of my project.
+
+WeijiaBao_lyrics.ipynb: it is the code of my project.
+
+project1 Text_Processing.Rmd: which output the processed moment csv file.
