@@ -2,7 +2,7 @@
 
 ### Doc folder
 
-Project 1: it is the report of my project.
+Project 1 report: it is the report of my project.
 
 WeijiaBao_lyrics.ipynb: it is the code of my project.
 
