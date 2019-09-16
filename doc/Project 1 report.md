@@ -29,12 +29,23 @@ Here are the top 5 most productive musicians along with their genres.
 
 To get more details about the lyrics text of the 10 most eloquent artist, I created 10 corresponding wordclouds, which tell us the most frequent words appeared in artists’ lyrics: “love”, “time”, “baby”, “well’…, are the popular words pope up frequently in lyrics.
 
+dolly-parton
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_30_0.png)
+
+elton-john
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_31_0.png)
+
+chris-brown
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_32_0.png)
+
+bee-gees
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_33_0.png)
+
+bob-dylan
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_34_0.png)
+
 However, there is one great distinction between rapstars and other genre artists. They mentioned “girl” almost as twice as frequent.
+
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/words_ratio.png)
 
 ### Does productivity change along time?
@@ -42,10 +53,19 @@ However, there is one great distinction between rapstars and other genre artists
 
 Finally, I wanted to explore the relationship between time and productivity. I tracked the top 5 most productive musicians’ (mentioned above) song counts by decade. 
 
+dolly-parton
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_35_1.png)
+
+elton-john
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_36_1.png)
+
+chris-brown
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_37_1.png)
+
+bee-gees
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_38_1.png)
+
+bob-dylan
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_39_1.png)
 
 Except rapstar Chris Brown started producing a bit late since 2000s, all other artists have long and stable (regular ups and downs) creation rates.  
