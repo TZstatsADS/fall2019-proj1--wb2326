@@ -2,7 +2,7 @@
 
 ### Summary
 
-In this project, I explore the texts from lyrics, a corpus of over 380,000 lyrics form MetrolLyrics. I wanted to find out what genre and what artist are most productive. Does their productivity decay or increase as time goes by? Do Rockstars complain more or instruct more? How about Rapstars? If complaining, what do they hate?
+In this project, I explore the texts from lyrics, a corpus of over 380,000 lyrics form MetrolLyrics. I want to find out what genre and what artist are most productive. Does their productivity decay or increase as time goes by? Do Rockstars complain more or instruct more? How about Rapstars? If complaining, what do they hate?
 
 ### Data preparation and basic analysis
 
