@@ -636,7 +636,7 @@ sns.distplot(df['word_count'])
 
 
 
-![png](output_18_1.png)
+![png](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_18_1.png)
 
 
 
