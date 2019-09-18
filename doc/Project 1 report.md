@@ -19,7 +19,7 @@ Before digging into the details of genre/artist differences, let's first take a 
 
 Overall, Hip-hop uses the greatest average amount of words, which makes sense as rap “utter[s] sharply or vigorously: [rap] out a command”. In contrast, Jazz employees the least words.
 
-### Top 5 Most Productive musicians
+### Who Are Most Productive? Top 5 musicians
 
 Here are the top 5 most productive musicians along with their genres.
 
@@ -81,7 +81,7 @@ Pop
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/Pop.png)
 
 R&B!
-[](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/R&B.png)
+[](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/RB.png)
 
 Rock
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/Rock.png)
@@ -108,4 +108,9 @@ bee-gees
 bob-dylan
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_39_1.png)
 
-Except rapstar Chris Brown started producing a bit late since 2000s, all other artists have long and stable (regular ups and downs) creation rates.  
+Except rapstar Chris Brown started producing a bit late since 2000s, all other artists have long and stable (regular ups and downs) creation cycles/rates.  
+
+### Conclusion
++ Popstars are generally most productive, having over 18,000 songs recorded in the dataset. While the average word count is 200 for overall musicians, pop songs can usually contain over 500 words.
++ Top productive artists are stable in producing new songs, neither decaying nor increasing productivity sharply as time goes by.
++ "Love" and "Time" are the most frequnt words in all music genres. Rapstars tend to mention "girl" almost twice as much as other genres' musicians.
