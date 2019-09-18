@@ -12,7 +12,7 @@ There are 125715 observations and 7 features in this dataset. There are 12 genre
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/word_count_by_genre.png)
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_18_1.png)
 
-The histogram clustered around 200 meaning most songs have about 200 words, while the distribution skewed to the right, we know there’re some extreme outliers with a large number of words. 
+The histogram clustered around 200, meaning most songs have about 200 words, while the distribution skewed to the right, we know there’re some extreme outliers(songs) with a large number of words. 
 
 Before digging into the details of genre/artist differences, let's first take a look at the song productivity of decades from 1960s to 2010s. Here we can see that the song productivity raised a lot since 1960s and reached summit at 2000s. However, the data were collected in mid 2010s thus many songs produced after that might not have been recorded.  
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_19_0.png)
