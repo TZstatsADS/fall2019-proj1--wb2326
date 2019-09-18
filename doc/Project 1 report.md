@@ -81,7 +81,7 @@ Pop
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/Pop.png)
 
 R&B!
-[](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/R%26B.png)
+[](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/R&B.png)
 
 Rock
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/Rock.png)
