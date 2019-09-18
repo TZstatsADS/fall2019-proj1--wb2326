@@ -27,6 +27,8 @@ Here are the top 5 most productive musicians along with their genres.
 
 ![](https://github.com/TZstatsADS/fall2019-proj1--wb2326/blob/master/figs/output_22_1.png)
 
+Telling from the boxplot, chris-brown has the greatest interquantile range, while bob-dylan has many outliers(songs with extreme amount of words.)
+
 To get more details about the lyrics text of the 5 most eloquent artist, I created 5 corresponding wordclouds, which tell us the most frequent words appeared in artists’ lyrics: “love”, “time”, “baby”, “well’…, are the popular words poping up frequently in lyrics.
 
 dolly-parton
